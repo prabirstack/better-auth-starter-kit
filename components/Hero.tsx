@@ -33,7 +33,7 @@ export default function Hero() {
 
         {/* Main hero content */}
         <div className="text-center">
-          <h1 className="text-4xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600 leading-tight">
+          <h1 className="text-4xl font-bold tracking-tight sm:text-6xl md:text-7xl bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600 leading-tight">
             Transform Your Data
             <br />
             Into Business Intelligence
